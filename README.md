@@ -50,7 +50,7 @@ We discovered several trends, such as the positive impact of adding living space
 ## Repository Structure
 Data/: Contains the datasets used in our analysis.
 
-Docs/: Includes the non-technical presentation slides and additional documentation.
+.pdf/: Includes the non-technical presentation slides. (Maximizing Property Value)
 
 Student.ipynb/: Jupyter Notebooks with detailed code and comments explaining the analysis process.
 
